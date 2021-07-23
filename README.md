@@ -1,4 +1,4 @@
-# vue-anime-yt
+# Anime Database
 
 ## Project setup
 ```
